@@ -5,6 +5,12 @@ Ce projet fait partie de la série de plugins *SUNY Plugins*.
 
 ---
 
+# SimpleDelayReverbFDN 🎛️
+
+![Capture du plugin](./screenshot_plugin.png)
+
+---
+
 ## 🎧 Fonctionnalités
 
 - Deux modes :
