@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="A_promotional_digital_graphic_displays_SUNY_Plugin.png" alt="SUNY Simple Delay / Reverb (FDN)" width="800"/>
+</p>
+
 # SimpleDelayReverbFDN 🎛️
 
 Un petit plugin **Delay / Reverb** développé avec **JUCE 8**.
