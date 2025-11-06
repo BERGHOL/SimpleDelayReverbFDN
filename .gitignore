@@ -1,0 +1,38 @@
+# ========================================
+# JUCE / C++ Plugin Project .gitignore
+# ========================================
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Builds & intermediates
+[Bb]uild/
+[Bb]uilds/
+x64/
+x86/
+Debug/
+Release/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tlog
+*.ipch
+
+# Binaries
+*.exe
+*.dll
+*.lib
+*.exp
+
+# JUCE-generated
+*.jucer.workspace
+*.jucer.lock
+
+# OS metadata
+.DS_Store
+Thumbs.db
